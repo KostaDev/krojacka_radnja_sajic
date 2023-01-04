@@ -1,0 +1,23 @@
+:root{
+    --primary-dark:#395144;
+    --primary-light:#AA8B56;
+    --secondary-dark:#4E6C50;
+    --secondary-light:#F0EBCE;
+
+
+}
+nav{
+    background-color: var(--primary-dark);
+
+}
+#sidenav-overlay {
+    z-index: 999;
+    }
+#banner-index{
+    min-height: 380px;
+    height: auto;
+    background-color: var(--primary-light);
+}
+.parallax img{
+    opacity: 1;
+} 
